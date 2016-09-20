@@ -1,0 +1,65 @@
+<?php
+$pagetitle = "Captain America";
+include("../../includes/header.inc.php");
+?>
+<script>
+$('#Contact').addClass('current');
+</script>
+			<div id="content">
+				<div id="careers">
+<!-- ADD JOB POSTING BELOW -->
+
+					<h3>Captain America</h3>
+					<p>
+						<B>Part Time</B>: 24-7 on-call hours<br/>
+						<B>Location</B>: Earth, travel required
+					</p>
+
+					<h4>Overview</h4>
+					<p>
+						The power is yours!
+					</p>
+
+					<h4>Responsibilities</h4>
+					<p>
+						Bring polution down to zero.
+					</p>
+
+					<h4>Requirements</h4>
+					<p>
+						<ul><li>Superhuman powers</li>
+							<li>Manipulation weather and natural elements</li>
+							<li>Trans-dimensional travel</li>
+							<li>Flight</li>
+							<li>Positive attitude</li>
+							<li>Green mullet</li>
+						</ul>
+					</p>
+
+					<h4>Pay/Benefits</h4>
+					<p>
+						<ul><li>Competitive Salary</li>
+							<li>Health insurance</li>
+							<li>Paid time off</li>
+							<li>Free doughnuts and pretzels on Fridays</li>
+						</ul>
+					</p>
+
+					<h4>Contact</h4>
+					<p>
+						To apply for this position please email your cover letter and resume to
+						<a href="mailto:gaia@sensoryguidance.com?subject=<?php print $pagetitle; ?>">gaia@sensoryguidance.com</a>
+					</p>
+
+
+
+
+
+
+<!-- END JOB POSTING -->
+				</div>
+			</div>
+
+<?php
+include("../../includes/footer.inc.php");
+?>

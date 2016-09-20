@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.sensoryguidance.com/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.sensoryguidance.com/about/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.sensoryguidance.com/management/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.sensoryguidance.com/experience/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.sensoryguidance.com/expertise/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.sensoryguidance.com/facilities/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.sensoryguidance.com/contact/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.sensoryguidance.com/panels/</loc>
+  <lastmod>2013-08-01</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+</urlset>

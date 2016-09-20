@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Cindy Cluett - Marketing
+    Candace Jones - Graphic Designer
+    Mike FitzSimmons - Web Developer
+
+# THANKS
+
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
